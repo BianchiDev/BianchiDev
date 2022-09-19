@@ -8,7 +8,7 @@ It should still be said that I studied and achieved the Scrum Foundation Profess
 studing the in postgraduate course (lato sensu) DESENVOLVIMENTO WEB FULL STACK. I work as a systems developer at <a href="https://mv.com.br/">∑> Mv Tecnologia</a><br><br>
 In my free time I study, practice jiu-jitsu, watch movies and series... I am a boy's father👦 on the autism spectrum and sutistc then I've been specializing in aria learning ABA and the in future I think about creating a school of jiu-jitsu for autistic. Ôss! 🥋
 #
-## ⭐️ Tecnologias que conheço ⭐️<br>
+## ⭐️ technologies I use ⭐️<br>
 <a href="https://developer.mozilla.org/docs/Web/HTML"><img height= "35" src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
 <a href="https://developer.mozilla.org/docs/Web/CSS"><img height= "35" src= "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
 <a href="https://www.javascript.com/"><img height= "35" src= "https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
@@ -21,7 +21,7 @@ In my free time I study, practice jiu-jitsu, watch movies and series... I am a b
 <a href="https://www.mysql.com/"><img height= "35" src= "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></a>
 <a href="https://www.postgresql.org/"><img height= "35" src= "https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></a><hr>
 
-##  📖 Tecnologias que estou evoluindo 📖 
+##  📖 Technologies I'm Evolving 📖 
 
 <a href="https://sass-lang.com/"><img height= "35" src= "https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"></a>
 <a href="https://www.typescriptlang.org/"><img height= "35" src= "https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></a>
