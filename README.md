@@ -1,7 +1,7 @@
 <p align="right">
 <a href="https://github.com/BianchiDev/BianchiDev/blob/main/assets/README_PTBR.md">🇧🇷 Versão em português 🇧🇷</a>
 </p>
-# 🇧🇷 Hi! My name is Bianchi! 💻 ☕
+ 🇧🇷 Hi! My name is Bianchi! 💻 ☕
 
 I'm a systems developer that uses React, Sprinboot most of the time, but I keep learning Angula, Doker and other technologies...<br><br>
 It should still be said that I studied and achieved the Scrum Foundation Professional Certificate SFPC (v2020). Currently 
