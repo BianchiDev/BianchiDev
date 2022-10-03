@@ -6,7 +6,7 @@
 I'm a systems developer that uses React, Sprinboot most of the time, but I keep learning Angula, Doker and other technologies...<br><br>
 It should still be said that I studied and achieved the Scrum Foundation Professional Certificate SFPC (v2020). Currently 
 studing the in postgraduate course (lato sensu) DESENVOLVIMENTO WEB FULL STACK. I work as a systems developer at <a href="https://mv.com.br/">∑> Mv Tecnologia</a><br><br>
-In my free time I study, practice jiu-jitsu, watch movies and series... I am a boy's father👦 on the autism spectrum and sutistc then I've been specializing in aria learning ABA and the in future I think about creating a school of jiu-jitsu for autistic. Ôss! 🥋
+In my free time I study, practice jiu-jitsu, watch movies and series... I am of a boy's father👦 on the autism spectrum and sutistc then I've been specializing in aria learning ABA and the in future I think about creating a school of jiu-jitsu for autistic. Ôss! 🥋
 #
 ## ⭐️ technologies I use ⭐️<br>
 <a href="https://developer.mozilla.org/docs/Web/HTML"><img height= "35" src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
