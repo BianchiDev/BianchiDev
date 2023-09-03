@@ -1,7 +1,7 @@
 # 🇧🇷 Olá! Meu nome é Bianchi! 💻 ☕
 
 Sou desenvoledor de sistemas que utiliza React, Sprinboot na maior parte do tempo, porém continuo aprendendo Angula, Doker e outras tecnologias...<br><br>
-Ainda convém dizer que estudei e consegui a certificação Scrum Foundation Professional Certificate SFPC (v2020). Atuamente cursando pós-graduação (lato sensu) DESENVOLVIMENTO WEB FULL STACK. Trabalho como desenvolvedor de sistemas na <a href="https://mv.com.br/">∑> Mv Tecnologia</a><br><br>
+Ainda convém dizer que estudei e consegui a certificação Scrum Foundation Professional Certificate SFPC (v2020). Atuamente cursando pós-graduação (lato sensu) DESENVOLVIMENTO WEB FULL STACK. Estou em busca de novas oportunidades <a href= "https://www.linkedin.com/in/felipe-bianchi-957127180?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B9EtB8uQFR7acY7GfwxnEJw%3D%3D">Linkedin</a><br><br>
 Na horas livres constumo estudar, praticar Jiu-jitsu, assistu filmes e seres... Sou pai de um menino👦 com o espectro do autismo e desde então venho me expecializando na ária aprendendo ABA e no futuro penso em criar uma escola de jiu-jitsu para autistas. Ôss! 🥋
 ## ⭐️ Tecnologias que conheço ⭐️<br>
 <a href="https://developer.mozilla.org/docs/Web/HTML"><img height= "35" src= "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
