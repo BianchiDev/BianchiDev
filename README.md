@@ -5,7 +5,7 @@
 
 I'm a systems developer that uses React, Sprinboot most of the time, but I keep learning Angula, Doker and other technologies...<br><br>
 It should still be said that I studied and achieved the Scrum Foundation Professional Certificate SFPC (v2020). Currently 
-studing the in postgraduate course (lato sensu) DESENVOLVIMENTO WEB FULL STACK. I am seeking new opportunities <a href= "www.linkedin.com/in/felipe-bianchi-957127180/">Linkedin</a><br><br>
+studing the in postgraduate course (lato sensu) DESENVOLVIMENTO WEB FULL STACK. I am seeking new opportunities <a href= "https://www.linkedin.com/in/felipe-bianchi-957127180?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B9EtB8uQFR7acY7GfwxnEJw%3D%3D">Linkedin</a><br><br>
 In my free time I study, practice jiu-jitsu, watch movies and series... I am of a boy's father👦 on the autism spectrum and sutistc then I've been specializing in aria learning ABA and the in future I think about creating a school of jiu-jitsu for autistic. Ôss! 🥋
 #
 ## ⭐️ technologies I use ⭐️<br>
